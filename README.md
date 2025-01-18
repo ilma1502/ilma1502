@@ -3,7 +3,7 @@ Nama  : Ilma Amalia <br>
 Nim   : 2203010566 <br>
 Kelas : G22 <br>
 
-<h3>1. Penjelasan Singkat Program </h3>
+<h3>1. Penjelasan Program </h3>
 <p>Tema : Sistem Manajemen Hotel</p>
 <p>Aplikasi Sistem Manajemen Hotel merupakan sistem yang yang dibangun menggunakan bahasa pemrograman Java di NetBeans. Sistem ini
   berisi data manajer, data karyawan, data tamu, data kamar, dan data Pemesanan. Program Sistem Manajemen Hotel ini terdiri dari 4 Package :</p>
