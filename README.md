@@ -2,7 +2,9 @@
 Nama  : Ilma Amalia <br>
 Nim   : 2203010566 <br>
 Kelas : G22 <br>
-![Image Alt](https://github.com/ilma1502/ilma1502/blob/main/sc/1.png?raw=true)
+
+![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/1.png?raw=true)
+
 <h3>1. Penjelasan Singkat Program </h3>
 <p>Tema : Sistem Manajemen Hotel</p>
 <p>Aplikasi Sistem Manajemen Hotel merupakan sistem yang yang dibangun menggunakan bahasa pemrograman Java di NetBeans. Sistem ini
