@@ -133,6 +133,19 @@ Kelas : G22 <br>
   ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/23_Pemesanan_ilma.png?raw=true)
   ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/24_Pemesanan_ilma.png?raw=true)
   ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/25_Pemesanan_ilma.png?raw=true)
+
+  <h5>10) Screenshot program Output Program</h5>
+  
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/26_output.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/27_output.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/28_output.png?raw=true)
+
+  <h5>10) Screenshot Penyimpanan Data</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/29_Penyimpanan%20data.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/30_Penyimpanan%20data.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/31_Penyimpanan%20data.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/32_Penyimpanan%20data.png?raw=true)
   
 <h3>3. Video Demo Program </h3>
   <p align="justify"></p>
