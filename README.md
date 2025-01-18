@@ -3,8 +3,6 @@ Nama  : Ilma Amalia <br>
 Nim   : 2203010566 <br>
 Kelas : G22 <br>
 
-![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/1.png?raw=true)
-
 <h3>1. Penjelasan Singkat Program </h3>
 <p>Tema : Sistem Manajemen Hotel</p>
 <p>Aplikasi Sistem Manajemen Hotel merupakan sistem yang yang dibangun menggunakan bahasa pemrograman Java di NetBeans. Sistem ini
@@ -82,15 +80,60 @@ Kelas : G22 <br>
   data-data yang diperlukan pada method main di class "SistemManajemenHotel_ilma.java" agar saat di run, output yang dihasilkan sesuai.</p>
 <h3>3. Screenshot program </h3>
   <h5>1) Screenshot program "SistemManajemenHotel_ilma.java"</h5>
+  
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/1_SistemManajemenHotel_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/2_SistemManajemenHotel_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/3_SistemManajemenHotel_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/4_SistemManajemenHotel_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/5_SistemManajemenHotel_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/6_SistemManajemenHotel_ilma.png?raw=true)
+  
   <h5>2) Screenshot program "Exception_ilma.java"</h5>
+  
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/7_Exception_ilma.png?raw=true)
+  
   <h5>3) Screenshot program "IDibayar_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/8_IDibayar_ilma.png?raw=true)
+  
   <h5>4) Screenshot program "IManageable_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/9_IManageable_ilma.png?raw=true)
+  
   <h5>5) Screenshot program "Person.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/10_Person.png?raw=true)
+  
   <h5>6) Screenshot program "Kamar_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/11_Kamar_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/12_Kamar_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/13_Kamar_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/14_Kamar_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/15_Kamar_ilma.png?raw=true)
+  
   <h5>7) Screenshot program "Karyawan_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/16_Karyawan_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/17_Karyawan_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/18_Karyawan_ilma.png?raw=true)
+  
   <h5>8) Screenshot program "Manajer_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/19_Manajer_ilma.png?raw=true)
+  
   <h5>9) Screenshot program "Tamu_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/20_Tamu_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/21_Tamu_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/22_Tamu_ilma.png?raw=true)
+  
   <h5>10) Screenshot program "Pemesanan_ilma.java"</h5>
+
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/23_Pemesanan_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/24_Pemesanan_ilma.png?raw=true)
+  ![image alt](https://github.com/ilma1502/ilma1502/blob/main/sc/25_Pemesanan_ilma.png?raw=true)
+  
 <h3>3. Video Demo Program </h3>
   <p align="justify"></p>
 - 👋 Hi, I’m @ilma1502
