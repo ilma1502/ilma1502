@@ -149,5 +149,5 @@ Kelas : G22 <br>
   
 <h3>3. Video Demo Program </h3>
 <a href="https://drive.google.com/drive/folders/1-FkKQ951ycAp5nBmhuKDDw7zLAmneYbl?usp=drive_link">LINK G-DRIVE</a>
-  <p align="justify"></p>
+ 
 
